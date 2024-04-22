@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "py-darwin-core"
+name = "darwin_core"
 version = "0.1.0"
 description = ""
 authors = ["bulricht <108867473+bulricht@users.noreply.github.com>"]
